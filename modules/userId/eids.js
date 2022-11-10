@@ -235,7 +235,12 @@ const USER_IDS_CONFIG = {
   'imuid': {
     source: 'intimatemerger.com',
     atype: 1
-  }
+  },
+  // adriverId
+  'adriverId': {
+    source: 'adriver.ru',
+    atype: 1
+  },
 };
 
 // this function will create an eid object for the given UserId sub-module
